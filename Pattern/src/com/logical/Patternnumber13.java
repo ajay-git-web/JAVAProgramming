@@ -9,11 +9,11 @@ public class Patternnumber13 {
 		Scanner sc=new Scanner(System.in);
 		System.out.println("Enter a number of rows u want: ");
 		int number=sc.nextInt();
-		int cnt=1;
+		int count=1;
 		for(int i=1;i<=number;i++) {
 			for(int j=1;j<=i;j++) {
-				System.out.print(cnt+" ");
-				cnt=cnt+1;
+				System.out.print(count+" ");
+				count=count+1;
 			}System.out.println();
 		}
 	}
