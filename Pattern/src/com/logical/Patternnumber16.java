@@ -1,3 +1,4 @@
+package com.logical;
 import java.util.Scanner;
 
 public class Patternnumber16 {
